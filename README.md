@@ -1,14 +1,14 @@
 <h1 align="center">
-         MindCare - Mental HealthCare Web App
+         MindEase - Mental HealthCare Web App
 </h1>
 
 *****
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/tandrimasingha/MindCare-MentalHealthcare?label=Last%20commit&color=green&logo=git&logoColor=white&style=flat-square)](https://github.com/tandrimasingha/Data-Analysis)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/tandrimasingha/MindCare-MentalHealthcare?label=Code%20size&logo=python&logoColor=white&style=flat-square)
-![GitHub repo size](https://img.shields.io/github/repo-size/tandrimasingha/MindCare-MentalHealthcare?label=Repo%20size&color=red&logo=github&logoColor=white&style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/tandrimasingha/MindCare-MentalHealthcare?label=Stars&logo=github&style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/tandrimasingha/MindCare-MentalHealthcare?label=Issues&color=yellow&logo=github&style=flat-square)
+[![GitHub last commit](https://img.shields.io/github/last-commit/tandrimasingha/MindEase-MentalHealthcare?label=Last%20commit&color=green&logo=git&logoColor=white&style=flat-square)](https://github.com/tandrimasingha/Data-Analysis)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/tandrimasingha/MindEase-MentalHealthcare?label=Code%20size&logo=python&logoColor=white&style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/tandrimasingha/MindEase-MentalHealthcare?label=Repo%20size&color=red&logo=github&logoColor=white&style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/tandrimasingha/MindEase-MentalHealthcare?label=Stars&logo=github&style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/tandrimasingha/MindEase-MentalHealthcare?label=Issues&color=yellow&logo=github&style=flat-square)
 
 
 
@@ -16,8 +16,8 @@
 
 ## 📊 Overview of the App
 
-Welcome to MindCare. <br> MindCare is a web app that analyses the psychological and mental health conditions of an individual and provide solutions to the problems.
-MindCare is a mental health solution that aims to provide users with easy access to resources related to mental wellbeing.  MindCare will help people to identify these issues timely and take necessary steps to improve the conditions of the victims and provide care to those, who are at risk of serious mental complications. The purpose of MindCare is to assist its users by providing solutions to their mental health conditions without requiring professional help in most cases. We have observed that these solutions work efficiently in bettering their mental health conditions. Users can also track their habits and keep a record of how often they have been doing the same. In serious cases, users will be able to book an appointment with a psychologist for consultation and get timely help.
+Welcome to MindEase. <br> MindEase is a web app that analyses the psychological and mental health conditions of an individual and provide solutions to the problems.
+MindEase is a mental health solution that aims to provide users with easy access to resources related to mental wellbeing.  MindEase will help people to identify these issues timely and take necessary steps to improve the conditions of the victims and provide care to those, who are at risk of serious mental complications. The purpose of MindEase is to assist its users by providing solutions to their mental health conditions without requiring professional help in most cases. We have observed that these solutions work efficiently in bettering their mental health conditions. Users can also track their habits and keep a record of how often they have been doing the same. In serious cases, users will be able to book an appointment with a psychologist for consultation and get timely help.
 
 
 
@@ -63,7 +63,7 @@ Open VSCode -
 
 1.1 `git clone <repo link>`
 
-1.2 `cd MindCare`
+1.2 `cd MindEase`
 
 1.3 `pip install -r requirements.txt `
 
