@@ -53,7 +53,7 @@ MindEase is a mental health solution that aims to provide users with easy access
 
 - The web application is built using python library -> Flask and Web Programming languages -> HTML, CSS, , Js Bootstrap
 - The entire application is finally deployed on Heroku by adding - Procfile (informs Heroku that which application is to be run first), Requirements (notifies Heroku about the libraries that needs to be installed before deploying or running our application)
-- See the deployed application [here](https://mind-care.herokuapp.com/).
+
 
 
 
